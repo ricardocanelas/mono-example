@@ -1,5 +1,5 @@
 {
-  "name": "sum",
+  "name": "@mono/sum",
   "description": "sum function",
   "version": "1.0.0",
   "private": true,
