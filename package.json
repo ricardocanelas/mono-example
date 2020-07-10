@@ -1,0 +1,15 @@
+{
+  "name": "mono",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": [
+      "**/babel-loader"
+    ]
+  },
+  "engines": {
+    "node": "12.x || 14.x"
+  }
+}
