@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ricardocanelas/mono-example.git",
+    "url": "git+https://github.com/ricardocanelas/mono-example.git",
     "directory": "packages/sum"
   }
 }
